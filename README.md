@@ -1,2 +1,6 @@
-# brain-dump
-Repo for Gitbook on wiki.keithalindsey.com
+---
+description: A wiki sort of thing
+---
+
+# Brain Dump
+
