@@ -1,8 +1,5 @@
 --- 
 date: 2019-10-24 20:46:00 -5
-tags: 
-  - #philosophy
-  - #stoicism
 title: Marcus Aurelius
 ---
 
