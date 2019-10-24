@@ -1,9 +1,9 @@
 --- 
-date: "2019-10-24T01:46:00.000Z"
+date: 2019-10-24 20:46:00 -5
 tags: 
   - #philosophy
   - #stoicism
-title: "Marcus Aurelius"
+title: Marcus Aurelius
 ---
 
 # Marcus Aurelius
