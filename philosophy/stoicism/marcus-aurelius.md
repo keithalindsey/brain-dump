@@ -1,6 +1,7 @@
 --- 
-date: 2019-10-24 20:46:00 -5
-title: Marcus Aurelius
+date: "2019-10-24 20:46:00 -5"
+title: "Marcus Aurelius"
+
 ---
 
 # Marcus Aurelius
