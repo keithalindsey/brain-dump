@@ -4,6 +4,7 @@ tags:
   - #philosophy
   - #stoicism
 title: Marcus Aurelius
+---
 
 # Marcus Aurelius
 
