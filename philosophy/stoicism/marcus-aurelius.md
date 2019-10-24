@@ -1,6 +1,6 @@
 ---
 date: '2019-10-24T01:46:00.000Z'
-tags: null
+tags: [ #philosophy , #stoicism , #mentalmodel ]
 title: Marcus Aurelius
 ---
 
