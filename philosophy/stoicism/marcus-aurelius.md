@@ -1,6 +1,6 @@
 ---
-date: 2019-10-23 20:46:00 -5
-tags: #philosophy , #stoicism , #mentalmodel
+date: '2019-10-24T01:46:00.000Z'
+tags: null
 title: Marcus Aurelius
 ---
 
@@ -12,9 +12,7 @@ title: Marcus Aurelius
 
 This is the book I'm reading right now
 
-%philosophy %stoicism %mentalmodel 
+%philosophy %stoicism %mentalmodel
 
 ### Mediatations Part 2
-
-
 
