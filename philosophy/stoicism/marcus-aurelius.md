@@ -1,8 +1,8 @@
 --- 
 date: "2019-10-24T01:46:00.000Z"
 tags: 
-  - philosophy
-  - stoicism
+  - #philosophy
+  - #stoicism
 title: "Marcus Aurelius"
 ---
 
