@@ -1,7 +1,9 @@
----
-date: '2019-10-24T01:46:00.000Z'
-tags: [ #philosophy , #stoicism , #mentalmodel ]
-title: Marcus Aurelius
+--- 
+date: "2019-10-24T01:46:00.000Z"
+tags: 
+  - philosophy
+  - stoicism
+title: "Marcus Aurelius"
 ---
 
 # Marcus Aurelius
