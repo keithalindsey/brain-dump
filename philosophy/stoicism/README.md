@@ -1,10 +1,9 @@
 # Stoicism
 
-### **Marcus Aurelius**
+## **Marcus Aurelius**
 
 He was a guy
 
-### **Zeno of Citium**
+## **Zeno of Citium**
 
 This guy actually came first
-
