@@ -1,8 +1,3 @@
---- 
-date: "2019-10-24 20:46:00 -5"
-title: "Marcus Aurelius"
----
-
 ## Marcus Aurelius
 
 Here is a line to split the problems.
